@@ -1,0 +1,110 @@
+body {
+    font-family: Raleway;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 2em;
+    font-family: Lato;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 2em;
+    font-family: Raleway;
+}
+
+p {
+    font-weight: 400;
+    font-size: 20px;
+    font-family: raleway;
+}
+
+.container {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-panel {
+    width: 35%;
+    display: inline-block;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.hotpink {
+    background-color: hotpink;
+    color: white;
+}
+
+.lavenderblush {
+    background-color: lavenderblush;
+    color: black;
+}
+
+.ivory {
+    background-color: ivory;
+    color: black;
+}
+
+.purple {
+    background-color: purple;
+    color: white;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.font-label {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 1000;
+}
+
+.lato {
+    font-family: Lato;
+}
+
+.raleway {
+    font-family: Raleway;
+}
+
+.dm-sans {
+    font-family: 'DM sans';
+}
+
+.text-panel h1 {
+    font-weight: 800;
+    font-size: 40px;
+    font-family: Lato;
+}
+
+.text-panel h2 {
+    font-weight: 500;
+    font-size: 30px;
+    font-family: Raleway;
+}
+
+.text-panel p {
+    font-weight: 400;
+    font-size: 20px;
+    font-family: Raleway;
+}
+
+ul li {
+    font-size: 20px
+}
